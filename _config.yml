@@ -1,7 +1,8 @@
 # Site settings
 title: Maxim Kretov course site
 email: kretovmk@gmail.com
-description: > # Site for Maxim Kretov course 
+description: > # Site for Maxim Kretov very nice course
+url: "http://kretovmk.github.io" # the base hostname & protocol for your site
 twitter_username: kretovmk
 github_username:  kretovmk
 
